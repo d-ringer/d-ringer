@@ -29,8 +29,8 @@ Here are some of the projects I've worked on:
 - Contribute to open-source projects and share knowledge with the community.
 
 ## 📫 Let's Connect!
-- **GitHub**: [Your GitHub Profile](https://github.com/yourusername)
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/yourusername)
-- **Email**: your.email@example.com
+- **GitHub**: [Ган-Эрдэнэ](https://github.com/d-ringer)
+- **LinkedIn**: [Ган-Эрдэнэ](https://www.linkedin.com/in/%D0%B3%D0%B0%D0%BD-%D1%8D%D1%80%D0%B4%D1%8D%D0%BD%D1%8D-%D0%B3%D0%B0%D0%BD-327173351/)
+- **Email**: gnaa.ganerdene13@gmail.com
 
 Looking forward to collaborating and building something amazing together! 🚀
