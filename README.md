@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm GanErdene 👋
 
 I'm a passionate software developer with expertise in **C++**, **C#**, **Java**, and **Python**. I love hacking stuff, exploring new technologies, and building creative solutions to real-world problems. Currently, I'm focused on **Point of Sale (POS) programming**, where I combine my technical skills with a deep understanding of business systems to deliver efficient and scalable solutions.
 
